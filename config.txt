@@ -1,0 +1,6 @@
+owner=574214339347873805
+prefix=.
+game=длс
+stayinchannel=true
+songinstatus=false
+token=NTk4NDgwMzc1NjMwNzkwNjU4.XSXQfw.KYKnbbmWyTPozhtUtG84QGJaIKQ
